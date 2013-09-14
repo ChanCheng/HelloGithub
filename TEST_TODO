@@ -1,3 +1,7 @@
 
 This is a testing file of TEST_TODO on master brnach.
 >>>>>>> test
+<<<<<<< HEAD
+=======
+This is new from TEST.
+>>>>>>> test
